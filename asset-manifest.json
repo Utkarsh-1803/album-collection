@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/album-collection/static/css/main.7224df75.css",
+    "main.js": "/album-collection/static/js/main.e39441c2.js",
+    "index.html": "/album-collection/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.7224df75.css",
+    "static/js/main.e39441c2.js"
+  ]
+}
